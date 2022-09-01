@@ -1,0 +1,2 @@
+jiji = 'hanbagui'
+printf(jiji)
